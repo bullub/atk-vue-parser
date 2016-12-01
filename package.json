@@ -1,0 +1,27 @@
+{
+  "name": "atk-vue-parser",
+  "version": "0.0.1",
+  "description": "An atk-based gulp plugin",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bullub/atk-vue-parser.git"
+  },
+  "keywords": [
+    "Atk",
+    "gulp-atk",
+    "atk-vue-parser"
+  ],
+  "author": "bullub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bullub/atk-vue-parser/issues"
+  },
+  "homepage": "https://github.com/bullub/atk-vue-parser#readme",
+  "dependencies": {
+    "atk": "*"
+  }
+}
